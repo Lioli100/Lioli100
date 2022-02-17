@@ -3,7 +3,7 @@
 - 🔭 Estou trabalhando com front-end ...
 - 🌱 Estudo HTML, SCSS, Javascript, Typescript, React e React Native ...
 
-- <div align="center">
+- <div align="center" display="flex">
   <a href="www.linkedin.com/in/mario-lioli-pacheco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lioli100&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lioli100&layout=compact&langs_count=7&theme=dracula"/>
