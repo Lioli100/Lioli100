@@ -1,4 +1,4 @@
-## Olá pessoal, sejam todos bem vindos ao meu perfil do Github!! 👋
+## Olá pessoal, sejam muito bem vindos ao meu perfil do Github! 👋
 
  💼 - Trabalho na Prefeitura de Foz do Iguaçu, Dpto de Engenharia de Software, com implantação de sistemas e sou freelancer front-end.</br>
  👥 - Procuro fazer parte de equipes de desenvolvedores.
